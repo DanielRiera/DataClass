@@ -1,2 +1,2 @@
 # DataClass
-Javascript Class for manage data formats
+Class for manage data formats
